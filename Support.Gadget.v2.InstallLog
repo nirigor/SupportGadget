@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.InstallLog
+   assemblypath = C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.InstallLog
+   assemblypath = C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.exe
+Installing assembly 'C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.InstallLog
+   assemblypath = C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.InstallLog
+   assemblypath = C:\Users\nirig\source\repos\Support.Gadget.v2\Support.Gadget.v2\bin\Debug\Support.Gadget.v2.exe
+Restoring event log to previous state for source Service1.
